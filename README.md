@@ -1,5 +1,5 @@
-## NAME-ILEVARASEN S
-## DATE-25-04-2025
+## NAME-GOKUL S
+## DATE-27-04-2025
 ## EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
