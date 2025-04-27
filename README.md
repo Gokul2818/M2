@@ -35,7 +35,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/94daefc4-cbbd-46c0-a723-b2b785343fb6)
+![image](https://github.com/user-attachments/assets/3fd12e49-f65d-4ed8-a33e-e6baee6c0cb6)
 
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
@@ -76,7 +76,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5b4f71e6-4cfc-4b5f-b794-ee13ae5bd57f)
+![image](https://github.com/user-attachments/assets/cdaef53a-8053-43c2-93d8-53a2a1c26f21)
 
 ## RESULT:
 
@@ -129,7 +129,7 @@ void subtract(int a, int b) {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/0ca854e1-fe61-4894-b290-9eaa51958190)
+![image](https://github.com/user-attachments/assets/f9155e6a-4309-49af-b4f5-4731134801e4)
 
 ## RESULT:
 
@@ -174,7 +174,7 @@ int main() {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/1b525b4b-0e91-454e-8153-ac06d521f397)
+![image](https://github.com/user-attachments/assets/4f6f8b67-58d4-4443-830b-d07c59373e7e)
 
 ## RESULT:
 
@@ -226,7 +226,7 @@ long long factorial(int n) {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/ba789ece-ce1d-439f-bcf5-4ce1cbdc4b4c)
+![image](https://github.com/user-attachments/assets/87a7b4e0-fbbe-4e14-980c-1dd934695f13)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
